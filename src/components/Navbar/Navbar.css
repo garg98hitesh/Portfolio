@@ -3,7 +3,7 @@
   display: flex;
   justify-content: space-between;
   margin-bottom: 2rem;
-  top: 0;
+  top: 10;
 }
 .n-left {
   flex: 1;
@@ -14,8 +14,9 @@
 }
 
 .n-name {
-  font-size: 1.3rem;
+  font-size: 1.9rem;
   font-weight: bold;
+  /* font-style: italic; */
 }
 .n-right {
   flex: 1;
@@ -26,7 +27,7 @@
 }
 
 .n-list {
-  flex: 10;
+  flex:10;
 }
 .n-list > ul {
   display: flex;
